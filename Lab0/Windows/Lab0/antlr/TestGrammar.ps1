@@ -1,4 +1,4 @@
-function antlr4 { java -jar C:\Users\Damihan\Downloads\antlr-4.13.0-complete.jar $args }
+function antlr4 { java -jar .\antlr-4.13.0-complete.jar $args }
 antlr4 -o TestRig Lab0_Parser.g4
 javac -cp ".\antlr-4.13.0-complete.jar" -g -Xlint  TestRig/Lab0*.java 
 java -cp ".\antlr-4.13.0-complete.jar;./TestRig" org.antlr.v4.gui.TestRig Lab0_Parser s -gui TestRig/entrada.txt
