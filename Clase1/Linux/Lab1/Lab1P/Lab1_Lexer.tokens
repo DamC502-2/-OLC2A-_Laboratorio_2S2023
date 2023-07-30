@@ -1,0 +1,11 @@
+PARDER=1
+PARIZQ=2
+ENBLANCO=3
+ENTERO=4
+DECIMAL=5
+ID=6
+RETURN=7
+UL_C=8
+')'=1
+'('=2
+'return'=7
