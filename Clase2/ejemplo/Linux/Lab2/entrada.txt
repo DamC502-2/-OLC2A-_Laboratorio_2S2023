@@ -1,0 +1,9 @@
+// Console.out(10)
+// int valor
+// int valor2 =zº 20
+// valor = 10
+// Console.out(valor ,10 ,valor2 )
+// Console.out(21.5 / 3.65 + 20 * 20 )
+// valor += 10
+// valor = valor + -5 * (10 / -10)
+5 + 3 * 10 + 1 + 20 * 10
