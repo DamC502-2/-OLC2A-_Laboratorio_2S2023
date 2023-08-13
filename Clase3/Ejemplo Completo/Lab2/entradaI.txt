@@ -1,0 +1,22 @@
+Console.out(303)
+int valor
+valor = 10
+int valor2 =  valor
+Console.out(valor ,10 ,valor2 * 30 )
+Console.out(21 * 3 + 20 * 20 )
+// valor += 10
+// valor = valor + -5 * (10 / -10)
+//int variable = 100
+func func1()
+int this.variable = 10
+func1()
+print(variable)
+print(valor)
+func main(){
+    print(valor)
+    let vector = [1,2,3,3,4,5,6]
+}
+
+main()
+var variabl3 = 20 //heap
+

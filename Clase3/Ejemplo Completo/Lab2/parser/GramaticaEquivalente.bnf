@@ -1,0 +1,24 @@
+<s> ::= <l_sentencias>
+    | epsilum
+
+<l_sentencias> ::= <l_sentencias> <sentencia>
+    | <sentencia>
+
+<sentencia> ::= 'Console.out' '(' <lista_e> ')'
+    | 'int' ID
+    | 'int' ID '='  <e>
+    | <asignacion>
+
+<asignacion> ::= ID '=' <e>
+
+<lista_e> ::= <lista_e> ',' <e>
+    | <e>
+
+<e> ::= ID
+    | DECIMAL
+    | ENTERO
+    | <e> '*' <e>
+    | <e> '/' <e>
+    | <e> '+' <e>
+    | <e> '-' <e>
+    | '(' <e> ')'
