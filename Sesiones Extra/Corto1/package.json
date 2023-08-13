@@ -1,0 +1,17 @@
+{
+  "name": "ejemplo_jison",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "jison": "./node_modules/.bin/jison"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jison": "^0.4.18",
+    "random-js": "^2.1.0"
+  }
+}
