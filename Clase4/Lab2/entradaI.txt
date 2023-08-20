@@ -1,0 +1,12 @@
+Console.out(303)
+int valor
+valor = 10
+int valor2 =  valor
+Console.out(valor ,10 ,valor2 )
+Console.out(plain +  "hola"  )
+Console.out(10 +  "hola"  )
+Console.out(10 + 10 +  "hola"  )
+//Console.out(21 * 3 + 20 * 20 )
+// valor += 10
+// valor = valor + -5 * (10 / -10)
+//int variable = 100
