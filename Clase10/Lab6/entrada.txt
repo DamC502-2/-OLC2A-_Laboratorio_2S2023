@@ -1,0 +1,11 @@
+if 10 < 11  {
+sentencia
+sentencia
+}else if 1 == 1 {
+sentencia
+} else if 2 == 2 {
+ sentencia
+ }
+  else {
+sentencia
+}
